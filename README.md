@@ -4,7 +4,7 @@ Under the state government of Maharashtra, Workers below the min wage are provid
 
 That's it friends for the background details. Lets move on on how to run this project.
 
-###INSTALLATION
+### INSTALLATION
 
 1. git clone the project
 ```console
@@ -19,11 +19,25 @@ foo@bar :~$ cd BEST-state-Insurance-Portal.git
 
 4. Boom! you have created the copy of my project, But wait there are still a few bottlenecks! First would be well, you need to use Microsoft SQL server and make sure you download the correct versions of JDBC Drivers.Once you have successfully managed to connect your SQL server to Netbeans, you will need the schema. I got you covered! Just copy all the dump files in the sql folder and you are good to go.
 
-###SCREENSHOTS
-
+### SCREENSHOTS
+## Login Page
 ![Login Page](https://github.com/Naeempatel010/BEST-state-Insurance-Portal/blob/master/website_images/index.jpeg)
-![Employee Registration](https://github.com/Naeempatel010/BEST-state-Insurance-Portal/blob/master/website_images/main.jpeg)
+
+## Employee Registration
+![Employee Registration](https://github.com/Naeempatel010/BEST-state-Insurance-Portal/blob/master/website_images/main.jpgg)
+
+
+## Report Lookup
 ![Report Lookup](https://github.com/Naeempatel010/BEST-state-Insurance-Portal/blob/master/website_images/reportshow.jpg)
+
+
+## Contractor Registration
 ![Contractor Registration](https://github.com/Naeempatel010/BEST-state-Insurance-Portal/blob/master/website_images/contractor.jpg)
+
+
+## Employee-Contractor Registration
 ![Employee-Contractor Registration](https://github.com/Naeempatel010/BEST-state-Insurance-Portal/blob/master/website_images/form.jpeg)
+
+
+## Blank Report View
 ![Blank Report View](https://github.com/Naeempatel010/BEST-state-Insurance-Portal/blob/master/website_images/report1.jpg)
