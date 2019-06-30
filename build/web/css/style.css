@@ -1,0 +1,38 @@
+
+.jumbotron{
+    text-align: center;
+    padding-bottom:0px;
+    
+}
+td{
+    padding:10px;
+}
+
+#contractorsubmit{
+    position: absolute;
+    left:50%;
+}
+
+.form-group{
+   position:absolute;
+   left:25%;
+   border-style:double;
+   border-color: blue;
+   border-radius:10px;
+}
+
+.center{
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+#grid{
+    
+}
+
+
+html, body {
+    height:100%;
+}
+
