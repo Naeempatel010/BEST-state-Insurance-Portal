@@ -24,7 +24,7 @@ foo@bar :~$ cd BEST-state-Insurance-Portal.git
 ![Login Page](https://github.com/Naeempatel010/BEST-state-Insurance-Portal/blob/master/website_images/index.jpeg)
 
 ## Employee Registration
-![Employee Registration](https://github.com/Naeempatel010/BEST-state-Insurance-Portal/blob/master/website_images/main.jpgg)
+![Employee Registration](https://github.com/Naeempatel010/BEST-state-Insurance-Portal/blob/master/website_images/main.jpg)
 
 
 ## Report Lookup
